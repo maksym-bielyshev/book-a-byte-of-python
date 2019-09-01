@@ -16,7 +16,7 @@ source = ['/home/maksym-bielyshev/Documents']
 # Example on Windows:
 # target_dir = 'E:\\Backup'
 # Example on Mac OS X and Linux:
-target_dir = '/home/Backups'
+target_dir = '/home/maksym-bielyshev/Backups'
 # Remember to change this to which folder you will be using
 
 # 3. The files are backed up into a zip file.
